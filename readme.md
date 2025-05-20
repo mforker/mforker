@@ -10,9 +10,10 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning & AI**: Scikit-learn, XGBoost, TensorFlow
+- **Data Skills**: Data Analysis, Data Cleaning, Data Wrangling, EDA
+- **Machine Learning & AI**: Scikit-learn, XGBoost, Decision Tree, Random Forest, Regression, Clustering
 - **Data Engineering**: SQL, ETL processes
-- **Tools & Platforms**: Jupyter Notebook, Tableau, Git, GitHub, Kaggle
+- **Tools & Platforms**: Jupyter Notebook, Tableau, Git, GitHub, Kaggle, GCP
 
 ---
 
@@ -20,15 +21,19 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ### 📄 [AskMyPDFs](https://github.com/mforker/AskMyPDFs)
 A Python-based tool that leverages NLP techniques to extract and answer questions from PDF documents, making information retrieval seamless and efficient.
+([Live Demo](https://askmypdfs.streamlit.app/))
 
 ### 📊 [IMFDataExplorer](https://github.com/mforker/IMFDataExplorer)
 An interactive application that explores and visualizes International Monetary Fund datasets, providing insights into global economic indicators.
+([Live Demo](https://imfdataexplorer.streamlit.app/))
 
 ### 📈 [R_dasborad](https://github.com/mforker/R_dasborad)
-A dashboard built using R and Shiny to monitor and analyze key performance metrics, facilitating data-driven decision-making.
+A dashboard built using R and Shiny to monitor and analyze Stock prices, facilitating data-driven decision-making.
+([Live Demo](https://dfg7n7-mitesh-nandan.shinyapps.io/portfolio/))
 
 ### 💬 [simple_chats](https://github.com/mforker/simple_chats)
 A lightweight chat application developed in Python, demonstrating real-time communication capabilities and socket programming.
+([Live Demo](https://simplechats.streamlit.app/))
 
 ---
 
