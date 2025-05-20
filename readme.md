@@ -42,6 +42,7 @@ A lightweight chat application developed in Python, demonstrating real-time comm
 
 - 📊 [Kaggle](https://www.kaggle.com/miteshnandan)
 - 📈 [Tableau Public](https://public.tableau.com/app/profile/mitesh.nandan)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mitesh-nandan)
 
 Let's collaborate and innovate together!
 
