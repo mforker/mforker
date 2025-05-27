@@ -41,12 +41,16 @@ A lightweight chat application developed in Python, demonstrating real-time comm
 
 ![Mitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mforker&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mforker&layout=compact&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=mforker&color=blue)
+
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-nandan) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mitesh.nandan) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue&color=f9f9f9)](https://www.kaggle.com/miteshnandan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue&color=f9f9f9)](https://www.kaggle.com/miteshnandan) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.all.nostalgic/)
 
 Let's collaborate and innovate together!
 
