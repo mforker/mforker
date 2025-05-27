@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Data Skills**: Data Analysis, Data Cleaning, Data Wrangling, EDA
-- **Machine Learning & AI**: Scikit-learn, XGBoost, Decision Tree, Random Forest, Regression, Clustering
+- **Machine Learning & AI**: Scikit-learn, XGBoost, Decision Tree, Random Forest, Regression, Clustering, LLMs, AI Tool Development and Automation
 - **Data Engineering**: SQL, ETL processes
 - **Tools & Platforms**: Jupyter Notebook, Tableau, Git, GitHub, Kaggle, GCP
 
@@ -45,9 +45,8 @@ A lightweight chat application developed in Python, demonstrating real-time comm
 
 ## 🌐 Connect with Me
 
-- 📊 [Kaggle](https://www.kaggle.com/miteshnandan)
-- 📈 [Tableau Public](https://public.tableau.com/app/profile/mitesh.nandan)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mitesh-nandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-nandan) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mitesh.nandan) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue&color=f9f9f9)](https://www.kaggle.com/miteshnandan)
 
 Let's collaborate and innovate together!
 
