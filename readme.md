@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mitesh Nandan
 
-🎯 **Data Analyst | Data Scientist | ML Enthusiast**
+🎯 **Data Analyst | AI & ML Enthusiast | Building AI Tools**
 
 Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and building intelligent systems that drive decision-making. With a strong foundation in data analysis, machine learning, and data visualization, I strive to solve real-world problems through data-driven solutions.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Data Skills**: Data Analysis, Data Cleaning, Data Wrangling, EDA
-- **Machine Learning & AI**: Scikit-learn, XGBoost, Decision Tree, Random Forest, Regression, Clustering, LLMs, AI Tool Development and Automation
+- **Machine Learning & AI**: Scikit-learn, XGBoost, Decision Tree, Random Forest, Regression, Clustering, LLMs, AI Tool Development and Automation, Agentic AI
 - **Data Engineering**: SQL, ETL processes
 - **Tools & Platforms**: Jupyter Notebook, Tableau, Git, GitHub, Kaggle, GCP
 
